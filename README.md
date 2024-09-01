@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**by22Jy/by22Jy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 关于我？😃
+* 22级民大计科学生，目标26秋招BAT sp/ssp offer 🏁
+* 技术栈：Java,Python,Golang,前端 anything 🤏
+* 开源课程：CSAPP mit6.824 NJU-Operating System 👓
+* 目前：就职于美团，校招或实习内推都可联系我 📞
+## 当前工作 ✏️
+正在预计完成一个民大计算机通关指南，我相信从23年LLM gpt3.5的横空出世到现在，大家可能逐渐意识到了LLM的局限性，**开发岗**依然是秋招的热门。
+无论你是要读研or秋招，希望都能为曾经在民大读书的你提供帮助。 🎓
+## 联系方式？ 📧
+如果你有好的idea或者对于方向有所迷茫，欢迎加我的微信：`_by22Jy`
