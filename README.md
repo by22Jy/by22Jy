@@ -1,10 +1,12 @@
-## 关于我？😃
-* 22级民大计科学生，目标26秋招BAT sp/ssp offer 🏁
-* 技术栈：Java,Python,Golang,前端 anything 🤏
-* 开源课程：CSAPP mit6.824 NJU-Operating System 👓
-* 目前：就职于美团，校招或实习内推都可联系我 📞
-## 当前工作 ✏️
-正在预计完成一个民大计算机通关指南，我相信从23年LLM gpt3.5的横空出世到现在，大家可能逐渐意识到了LLM的局限性，**开发岗**依然是秋招的热门。
-无论你是要读研or秋招，希望都能为曾经在民大读书的你提供帮助。 🎓
-## 联系方式？ 📧
-如果你有好的idea或者对于方向有所迷茫，欢迎加我的微信：`_by22Jy`
+## About Me 😃
+* Class of 2022, Computer Science student at Minzu University of China. My goal is to secure a BAT (Bytedance/Alibaba/Tencent) SP/SSP offer in the 2026 fall recruitment season. 🏁
+* Tech Stack: Java, Python, Golang, front-end and anything you need! 🤏
+* Open Source Courses: CSAPP, MIT 6.824, NJU Operating System 👓
+* Currently: Working at Bytedance. Feel free to contact me for campus recruitment or internship referrals. 📞
+
+## Current Work ✏️
+I'm currently working on a comprehensive guide for Computer Science students at Minzu University. Since the emergence of LLMs like GPT-3.5 in 2023, many have started to realize their limitations. **Developer roles** remain a hot topic for fall recruitment.
+Whether you plan to pursue graduate studies or aim for a job in the fall recruitment season, I hope this guide can help you, as a fellow Minzu University student. 🎓
+
+## Contact 📧
+If you have great ideas or feel uncertain about your direction, feel free to add me on WeChat: `_by22Jy`
